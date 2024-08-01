@@ -1,1 +1,3 @@
-"# EstimExpert" 
+Ce projet utilise une régression linéaire pour prédire les prix des maisons en fonction de leurs caractéristiques telles que la surface et le nombre de chambres. Il est construit avec Python en utilisant les bibliothèques scikit-learn pour la modélisation, et matplotlib et seaborn pour la visualisation des résultats.
+
+Objectif : L'objectif de ce projet est de créer un modèle de régression linéaire pour prédire les prix des maisons. Le modèle est entraîné avec des données fictives comprenant la surface en mètres carrés et le nombre de chambres, puis évalué sur un ensemble de test. Les résultats sont visualisés pour comparer les valeurs prédites aux valeurs réelles.
